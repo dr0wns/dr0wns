@@ -3,13 +3,13 @@
 <p></p>
 <!-----image--->
 <p align="center">
-<img width= "200" src=https://media.tenor.com/5haHQQgVxScAAAAM/mitsuba-sousuke-sousuke-mitsuba.gif>
+<img width= "300" src=https://media.tenor.com/5haHQQgVxScAAAAM/mitsuba-sousuke-sousuke-mitsuba.gif>
 </p>
 
 <!---info--->
 <p align="center"> <img width= "15" src="https://64.media.tumblr.com/917e773de85dc16fc7cd7911f1d1c775/9226d5fa51148c7a-d0/s100x200/a1e9984c64186aecdd3cff1b57da253d428cf784.gifv"> yuhii, coffin or Fluer : any/ask ˚<img width= "15" src="https://files.catbox.moe/nsx660.gif"> entp </p>
 
-<p align="center"> <mark> # for dni+byi ect. Read my <a href="https://rentry.co/r4ttingaround">rentry.</a>  </p>
+<p align="center"> <mark> # for dni+byi ect. Read my <a href="https://rentry.co/yuhiisrentry">rentry.</a>  </p>
 
 <!----divider--->
 <p align="center">
