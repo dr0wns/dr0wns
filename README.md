@@ -13,7 +13,7 @@
 
 <!----divider--->
 <p align="center">
-<img width= "200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86e69691-c60c-4b13-82d7-c0b6a980c1e8/d73xlpi-a23f9676-8204-4e15-85ed-733e7862c89a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2ZTY5NjkxLWM2MGMtNGIxMy04MmQ3LWMwYjZhOTgwYzFlOFwvZDczeGxwaS1hMjNmOTY3Ni04MjA0LTRlMTUtODVlZC03MzNlNzg2MmM4OWEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n6CM61Be-auihRaPWhuq_i51DIkh2ELAuPSltctQSAI" >
+<img width= "200" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/238b984b-9b8f-480c-a539-a15356ed640a/d83ll23-7d9e32bf-8fcd-44c4-9de6-4662bbf84e2a.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIzOGI5ODRiLTliOGYtNDgwYy1hNTM5LWExNTM1NmVkNjQwYVwvZDgzbGwyMy03ZDllMzJiZi04ZmNkLTQ0YzQtOWRlNi00NjYyYmJmODRlMmEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8Vm8oEoSR6e5Et84BVFHVSWIHtWiCdjg2sIANKpIdVQ" >
 </p>
 
 <!-----friends!!!--->
