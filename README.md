@@ -20,5 +20,6 @@
 <p align="center"> <mark> amazing ppl !! </mark> 
  <p></p>
                                                                          
-  <p align="center">  <a href="https://github.com/sennadead"> hunt, <a href="https://github.com/DANZNC">dan,    <a href="https://www.patreon.com/comfycritters">ethan</a>, <a href="https://www.patreon.com/Pullinuptoyomomshome">tem</a>, <a href="https://www.patreon.com/lps_enthusiast">uni</a> 3 </mark> </p>
+  <p align="center">  <a href="https://github.com/sennadead"> hunt, <a href="https://github.com/DANZNC">dan,   
+   <a href="https://www.patreon.com/comfycritters"> ethan</a>, <a href="https://www.patreon.com/Pullinuptoyomomshome"> tem </a>, <a href="https://www.patreon.com/lps_enthusiast"> uni </a> 3 </mark> </p>
 <p></p>
