@@ -3,7 +3,7 @@
 <p></p>
 <!-----image--->
 <p align="center">
-<img width= "300" src="https://c.tenor.com/S2iN62WbvN4AAAAd/tenor.gif">
+<img width= "350" src="https://c.tenor.com/S2iN62WbvN4AAAAd/tenor.gif">
 </p>
 
 <!---info--->
