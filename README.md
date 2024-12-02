@@ -40,6 +40,6 @@
   <p align="center">
   <  img width= "50" src="https://64.media.tumblr.com/27428ef7a10e1a4c6965ee5a7d4f249a/9cf984d66502401c-90/s100x200/9c96ce7164f070ee62fa2db9cf57f18d253117bd.gifv">
    <p align="center">
-   <img width= "50" src="https://64.media.tumblr.com/59025bba84d04c45cea35e1156d1e05b/9cf984d66502401c-2b/s100x200/a41f3e2675dc8c002a2bbb02c1a6a4642e4fbed8.gifv">
+   <img width= "50"src="https://64.media.tumblr.com/59025bba84d04c45cea35e1156d1e05b/9cf984d66502401c-2b/s100x200/a41f3e2675dc8c002a2bbb02c1a6a4642e4fbed8.gifv">
     <p align="center">
-    < img width= "50" src="https://64.media.tumblr.com/ac5878cef18019f54c5624e2e09d4978/9cf984d66502401c-2c/s100x200/c75b8db53ffa22bc57992f7e8d917fcee94e646a.gifv" >
+    < img width= "50"src="https://64.media.tumblr.com/ac5878cef18019f54c5624e2e09d4978/9cf984d66502401c-2c/s100x200/c75b8db53ffa22bc57992f7e8d917fcee94e646a.gifv" >
