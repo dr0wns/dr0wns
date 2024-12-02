@@ -44,21 +44,4 @@
     <p align="center">
     < img width= "50"src="https://64.media.tumblr.com/ac5878cef18019f54c5624e2e09d4978/9cf984d66502401c-2c/s100x200/c75b8db53ffa22bc57992f7e8d917fcee94e646a.gifv" >
 
-     <!---============ Mood Board =========================--->
-<div class="col-12 p-1 pt-2">
-<div class="row no-gutters" style="height:70px;">
-    <!---- Image 1 ----->
-     <div class="col-4 h-100" style="border-radius:1.5em 0em 0em 1.5em; background-position:center; background-size:cover; 
-        background-image: url(https://www.foodfaithfitness.com/wp-content/uploads/2021/04/Roasted-Strawberries-photo-683x1024.jpg)
-     "> </div>
- 
-    <!---- Image 2 ----->
-    
-     <div class="col-4 h-100" style="background-size:cover; background-position:center; 
-        background-image: url(https://secure.img1-fg.wfcdn.com/im/48922616/compr-r85/1080/108096150/royal-albert-old-country-roses-75-oz-creamer.jpg )
-     "></div>
- 
-    <!---- Image 3 ----->
-     <div class="col-4 h-100" style="border-radius:0em 1.5em 1.5em 0em; background-position:center; background-size:cover; 
-        background-image: url(https://www.barleyandsage.com/wp-content/uploads/2022/03/cherry-cheesecake-macarons-0985.jpg)
-     "></div> 
+     
