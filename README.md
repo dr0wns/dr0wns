@@ -10,7 +10,7 @@
 <p></p>
 <!----text--->
 
-<p align="center"> <img width= "20" src="https://64.media.tumblr.com/663c0d826d669e4919ed4bbc4532ec5a/048efe2750086af4-5b/s250x400/01973f40b904edb303ecb0418f9c291112eeda9a.webp"> Carnage or Sunny +more : it/any ˚<img width= "10" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56613871-de84-49fc-b1c1-f9fd0f796461/dah414e-8c05396e-0b42-4bdb-a98f-052e1a12f44e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NjEzODcxLWRlODQtNDlmYy1iMWMxLWY5ZmQwZjc5NjQ2MVwvZGFoNDE0ZS04YzA1Mzk2ZS0wYjQyLTRiZGItYTk4Zi0wNTJlMWExMmY0NGUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WVwzffxXJSYfDFmfXib1UtYsosUysgmkkmWkZ39TSj4"> entp </p>
+<p align="center"> <img width= "20" src="https://64.media.tumblr.com/663c0d826d669e4919ed4bbc4532ec5a/048efe2750086af4-5b/s250x400/01973f40b904edb303ecb0418f9c291112eeda9a.webp"> Carnage or Sunny +more : it/any ˚<img width= "10" src="https://64.media.tumblr.com/2327ec05465ee5f339affc425d8bcb30/f2abe0b0a4838764-35/s250x400/30940aafab6f1f48cc006cf2abdd28450a21ec6f.gifv"> entp </p>
 
 
 <!---info--->
