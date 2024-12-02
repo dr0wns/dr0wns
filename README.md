@@ -32,3 +32,4 @@
   <p align="center"> < <a href="https://github.com/sennadead"> hunt, <a href="https://github.com/DANZNC">dan,   
    <a href="https://www.patreon.com/comfycritters"> ethan</a>, <a href="https://www.patreon.com/Pullinuptoyomomshome"> tem </a>, <a href="https://www.patreon.com/lps_enthusiast"> uni </a> 3 </mark> </p>
 <p></p>
+<img width= "50" src="https://64.media.tumblr.com/0a8d0e2f80af3a83b9753da445835a50/9cf984d66502401c-ba/s100x200/d319570c465119ee51b58b0c29b92f6fc02dfbc1.pnj" >
